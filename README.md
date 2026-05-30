@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +44,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
