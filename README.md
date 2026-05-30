@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
