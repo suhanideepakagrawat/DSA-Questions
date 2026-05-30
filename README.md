@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
