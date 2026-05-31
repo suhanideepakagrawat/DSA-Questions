@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 ## Sorting
 |  |
 | ------- |
