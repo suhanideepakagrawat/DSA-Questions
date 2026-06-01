@@ -33,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
+| [2652-sum-multiples](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
