@@ -16,6 +16,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,5 @@
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
