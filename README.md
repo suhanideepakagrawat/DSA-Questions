@@ -19,6 +19,7 @@
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
