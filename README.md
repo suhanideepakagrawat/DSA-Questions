@@ -49,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
@@ -136,6 +137,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0029-divide-two-integers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
