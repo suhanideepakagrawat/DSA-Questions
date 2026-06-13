@@ -55,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
@@ -72,6 +73,7 @@
 | [0020-valid-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -84,6 +86,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
