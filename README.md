@@ -19,6 +19,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -35,6 +36,7 @@
 | [0036-valid-sudoku](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 ## Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
