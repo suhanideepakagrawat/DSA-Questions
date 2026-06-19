@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
