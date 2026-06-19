@@ -14,6 +14,7 @@
 | [0036-valid-sudoku](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -66,6 +67,7 @@
 | [0029-divide-two-integers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
