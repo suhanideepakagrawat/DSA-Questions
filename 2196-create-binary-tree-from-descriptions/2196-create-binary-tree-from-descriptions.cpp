@@ -1,0 +1,43 @@
+class Solution {
+public:
+    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
+        unordered_map<int, TreeNode*> nodeMap;
+        unordered_set<int> children;
+        
+        for (const auto& desc : descriptions) {
+            int parentVal = desc[0];
+            int childVal = desc[1];
+            bool isLeft = desc[2];
+            
+            
+            if (nodeMap.find(parentVal) == nodeMap.end()) {
+                nodeMap[parentVal] = new TreeNode(parentVal);
+            }
+            
+            
+            if (nodeMap.find(childVal) == nodeMap.end()) {
+                nodeMap[childVal] = new TreeNode(childVal);
+            }
+            
+            
+            if (isLeft) {
+                nodeMap[parentVal]->left = nodeMap[childVal];
+            } else {
+                nodeMap[parentVal]->right = nodeMap[childVal];
+            }
+            
+            
+            children.insert(childVal);
+        }
+        
+        
+        for (const auto& pair : nodeMap) {
+            int val = pair.first;
+            if (children.find(val) == children.end()) {
+                return pair.second; 
+            }
+        }
+        
+        return nullptr;
+    }
+};
