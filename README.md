@@ -21,6 +21,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Tree
 |  |
 | ------- |
