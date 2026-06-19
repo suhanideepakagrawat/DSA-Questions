@@ -41,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0031-next-permutation) |
@@ -75,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -143,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Enumeration
