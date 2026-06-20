@@ -19,6 +19,7 @@
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -70,6 +71,7 @@
 | [0066-plus-one](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
+| [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2652-sum-multiples) |
@@ -126,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
