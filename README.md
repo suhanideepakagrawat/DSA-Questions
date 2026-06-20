@@ -89,6 +89,7 @@
 | [0038-count-and-say](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3019-number-of-changing-keys) |
