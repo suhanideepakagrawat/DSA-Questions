@@ -38,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -49,6 +50,7 @@
 | [0027-remove-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -70,6 +72,7 @@
 | [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
