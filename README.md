@@ -156,6 +156,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Binary Tree
 |  |
 | ------- |
