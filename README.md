@@ -77,6 +77,7 @@
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
