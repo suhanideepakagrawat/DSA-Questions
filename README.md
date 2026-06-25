@@ -185,12 +185,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -211,5 +213,10 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
