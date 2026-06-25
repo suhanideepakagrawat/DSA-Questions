@@ -41,6 +41,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -95,6 +96,7 @@
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
