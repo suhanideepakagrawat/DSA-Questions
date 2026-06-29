@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -144,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
