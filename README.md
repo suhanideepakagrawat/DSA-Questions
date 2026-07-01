@@ -202,6 +202,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -235,6 +237,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -242,6 +245,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
