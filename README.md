@@ -61,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -120,6 +121,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -221,11 +223,13 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
