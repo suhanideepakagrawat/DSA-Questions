@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1672-richest-customer-wealth) |
