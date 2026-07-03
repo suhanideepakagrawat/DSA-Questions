@@ -34,6 +34,7 @@
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -75,6 +76,7 @@
 | [0035-search-insert-position](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
@@ -172,6 +174,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Backtracking
 |  |
@@ -191,6 +194,7 @@
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
@@ -275,8 +279,14 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
