@@ -232,6 +232,7 @@
 | [0101-symmetric-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -265,6 +266,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0101-symmetric-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -279,10 +281,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
