@@ -71,6 +71,7 @@
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0696-count-binary-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -121,6 +122,7 @@
 | [0205-isomorphic-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -205,6 +207,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
