@@ -23,6 +23,7 @@
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1301-number-of-paths-with-max-score](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
@@ -159,6 +160,7 @@
 | [0036-valid-sudoku](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -198,6 +200,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1301-number-of-paths-with-max-score](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
