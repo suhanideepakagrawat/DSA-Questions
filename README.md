@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0485-max-consecutive-ones) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
@@ -188,6 +190,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -288,6 +291,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,4 +321,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0149-max-points-on-a-line) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
