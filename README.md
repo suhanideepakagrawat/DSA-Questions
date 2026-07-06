@@ -24,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1288-remove-covered-intervals](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1672-richest-customer-wealth) |
@@ -178,6 +179,7 @@
 | [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
+| [1288-remove-covered-intervals](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
