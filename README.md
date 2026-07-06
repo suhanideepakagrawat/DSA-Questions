@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
