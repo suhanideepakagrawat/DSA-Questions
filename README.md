@@ -112,6 +112,7 @@
 | [2652-sum-multiples](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3019-number-of-changing-keys) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -270,6 +272,7 @@
 | [1732-find-the-highest-altitude](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
