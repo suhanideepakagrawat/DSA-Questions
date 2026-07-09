@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0149-max-points-on-a-line) |
@@ -127,6 +128,7 @@
 | [0022-generate-parentheses](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0068-text-justification) |
 | [0205-isomorphic-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3838-weighted-word-mapping) |
