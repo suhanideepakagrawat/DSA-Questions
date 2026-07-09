@@ -40,6 +40,7 @@
 | [2942-find-words-containing-character](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -61,6 +62,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0035-search-insert-position](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
@@ -305,11 +308,13 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
