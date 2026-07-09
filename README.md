@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -90,6 +92,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3620-network-recovery-pathways) |
@@ -109,6 +112,7 @@
 | [0202-happy-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -190,6 +194,7 @@
 | [0088-merge-sorted-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/1840-maximum-building-height) |
@@ -239,6 +244,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/0268-missing-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/suhanideepakagrawat/DSA-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
